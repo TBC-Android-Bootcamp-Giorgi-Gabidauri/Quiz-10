@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz 10</string>
+    <string name="_4_20_pm">4:20 PM</string>
+    <string name="great_i_will_have_a_look">Great. I will have a look</string>
+    <string name="alice_smith">Alice Smith</string>
+    <string name="icon">icon</string>
+    <string name="voice_or_attachment">Voice or attachment</string>
+    <string name="_3">3</string>
+    <string name="unread_messages">unread messages</string>
+    <string name="attachment_notification">\" Sent an attachment\"</string>
+    <string name="voice_notification">\" Sent a voice message\"</string>
+</resources>
